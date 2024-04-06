@@ -24,7 +24,7 @@ Object {
             style="width: 100%; display: flex; justify-content: center; align-items: stretch;"
           >
             <div
-              style="border: 1px solid #85b2f9; display: inline-block; padding: 10px; margin-right: 10px;"
+              style="border: 1px solid #85b2f9; display: inline-block; padding: 10px; margin-right: 10px; width: 400px;"
             >
               <h3>
                  
@@ -41,7 +41,7 @@ Object {
               </span>
             </div>
             <div
-              style="border: 1px solid #85b2f9; display: inline-block; padding: 10px;"
+              style="border: 1px solid #85b2f9; display: inline-block; padding: 10px; width: 400px;"
             >
               <h3>
                  
@@ -82,7 +82,7 @@ Object {
           style="width: 100%; display: flex; justify-content: center; align-items: stretch;"
         >
           <div
-            style="border: 1px solid #85b2f9; display: inline-block; padding: 10px; margin-right: 10px;"
+            style="border: 1px solid #85b2f9; display: inline-block; padding: 10px; margin-right: 10px; width: 400px;"
           >
             <h3>
                
@@ -99,7 +99,7 @@ Object {
             </span>
           </div>
           <div
-            style="border: 1px solid #85b2f9; display: inline-block; padding: 10px;"
+            style="border: 1px solid #85b2f9; display: inline-block; padding: 10px; width: 400px;"
           >
             <h3>
                
