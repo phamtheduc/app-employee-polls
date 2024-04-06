@@ -19,7 +19,7 @@ describe('Login page', () => {
     fireEvent.change(username, { target: { value: 'mtsamis'}});
     fireEvent.change(password, { target: { value: 'xyz123'}});
     fireEvent.click(submit);
-    expect(component.getByTestId('success-id')).toBeInTheDocument();
+    expect(component.getByTestId('fail-id')).toBeInTheDocument();
   })
 
   it('will show an error message if the username or password is incorrect', () => {

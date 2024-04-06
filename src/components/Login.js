@@ -68,7 +68,7 @@ export const Login = () => {
           </div>
         )}
         {success && (
-          <div className="success" data-testid="success-id">
+          <div className="success" data-testid="fail-id">
             <small>Success login</small>
           </div>
         )}
